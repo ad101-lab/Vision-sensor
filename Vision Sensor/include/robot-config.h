@@ -5,7 +5,7 @@ extern brain Brain;
 using signature = vision::signature;
 
 // VEXcode devices
-extern signature Vision1__SIG_1;
+extern signature Vision1__BLUE_BOX;
 extern signature Vision1__SIG_2;
 extern signature Vision1__SIG_3;
 extern signature Vision1__SIG_4;
